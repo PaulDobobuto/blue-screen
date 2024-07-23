@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #0078d7; /* Azul característico */
+}
+
+.blue-screen {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 5em;
+}
+
+p {
+    font-size: 1.2em;
+}
